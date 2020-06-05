@@ -25,6 +25,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Describe why Java is called an object oriented, strongly typed language.
+    Java code is fairly strict with the use of typing with strings, booleans, integers, and doubles.
 2. Give examples of Java Collections explaining the use and differences between them.
 3. What is recursion and how does it differ from regular looping?
 4. Explain the differences between Abstract Classes and Interfaces including scenarios of when to use them.
